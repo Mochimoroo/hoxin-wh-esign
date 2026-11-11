@@ -1,0 +1,33 @@
+{
+  "name": "Hoxin WH e-Sign — เอกสารคลังสินค้า",
+  "short_name": "WH e-Sign",
+  "description": "ใบเบิก WH-005 · ใบนำเข้า WH-006 · DN SA-007 พร้อมลงนามอิเล็กทรอนิกส์ - Hoxin Precision (Thailand)",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "th",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
