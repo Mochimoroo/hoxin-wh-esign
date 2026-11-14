@@ -1,6 +1,6 @@
-// Service worker ของแอป Hoxin WH e-Sign: เก็บหน้าแอปและไอคอนไว้ในเครื่อง ให้เปิดแอปได้เร็ว
+// Service worker ของแอป Hoxin WMS-Docs: เก็บหน้าแอปและไอคอนไว้ในเครื่อง ให้เปิดแอปได้เร็ว
 // ตัวระบบ (Google Apps Script) โหลดจากอินเทอร์เน็ตทุกครั้ง ไม่ถูกเก็บไว้ในเครื่อง
-const CACHE = 'hoxin-wh-esign-v1';
+const CACHE = 'hoxin-wh-esign-v2';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'logo.jpg', 'icon-192.png', 'icon-512.png',
                'icon-maskable-512.png', 'apple-touch-icon.png', 'favicon-64.png'];
 

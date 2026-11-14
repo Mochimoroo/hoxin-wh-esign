@@ -1,4 +1,4 @@
-# Hoxin WH e-Sign — แอปติดตั้งบนมือถือ / PDA / แท็บเล็ต (PWA)
+# Hoxin WMS-Docs – Warehouse Management System — แอปติดตั้งบนมือถือ / PDA / แท็บเล็ต (PWA)
 
 หน้าเปิดแอปสำหรับระบบ **Hoxin Smart Material Issue** (ใบเบิก WH-005 · ใบนำเข้า WH-006 · DN SA-007)
 ติดตั้งเป็นไอคอนบนหน้าจอ เปิดเต็มจอเหมือนแอป ไม่มีแถบเบราว์เซอร์

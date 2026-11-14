@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Hoxin WH e-Sign</title>
+<title>Hoxin WMS-Docs – Warehouse Management System</title>
 <meta name="description" content="ระบบเอกสารคลังสินค้า ใบเบิก · ใบนำเข้า · DN พร้อมลงนามอิเล็กทรอนิกส์ - Hoxin Precision (Thailand)">
 <meta name="theme-color" content="#ffffff">
 <link rel="manifest" href="manifest.webmanifest">
@@ -12,7 +12,7 @@
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="WH e-Sign">
+<meta name="apple-mobile-web-app-title" content="WMS-Docs">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <style>
   :root { --blue:#1e3a8a; --ink:#0f172a; --muted:#64748b; --bg:#f5f7fb; }
@@ -40,10 +40,10 @@
     <div id="msg">กำลังเปิดระบบ…</div>
     <button id="retry" type="button" onclick="location.reload()">ลองใหม่</button>
   </div>
-  <iframe id="app" title="Hoxin WH e-Sign"
+  <iframe id="app" title="Hoxin WMS-Docs – Warehouse Management System"
           allow="camera; clipboard-read; clipboard-write; fullscreen"></iframe>
 <script>
-  // ลิงก์ระบบ Hoxin Smart Material Issue (Google Apps Script)
+  // ลิงก์ระบบ Hoxin WMS-Docs – Warehouse Management System (Google Apps Script)
   var APP_URL = 'https://script.google.com/macros/s/AKfycbzST9zw5-RvOKXKdBWXgiOTxZPFC9N4VLP7JvJgvZxlDB63UmDD2x9sww7atC11PWo/exec';
   // ส่งต่อเลขที่เอกสาร เช่น ?r=3310-2611070002 (ใช้ทำ QR Code เปิดเอกสารตรงจากแอป)
   var m = /[?&]r=([A-Za-z0-9\-\/]{4,40})/.exec(location.search);

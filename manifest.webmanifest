@@ -1,6 +1,6 @@
 {
-  "name": "Hoxin WH e-Sign — เอกสารคลังสินค้า",
-  "short_name": "WH e-Sign",
+  "name": "Hoxin WMS-Docs – Warehouse Management System",
+  "short_name": "WMS-Docs",
   "description": "ใบเบิก WH-005 · ใบนำเข้า WH-006 · DN SA-007 พร้อมลงนามอิเล็กทรอนิกส์ - Hoxin Precision (Thailand)",
   "id": "./",
   "start_url": "./",
